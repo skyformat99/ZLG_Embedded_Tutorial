@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CC	Makefile	/^CC  := \/opt\/freescale\/usr\/local\/gcc-4.1.2-glibc-2.5-nptl-3\/arm-none-linux-gnueabi\/bin\/arm-none-linux-gnueabi-gcc$/;"	m
+DATA_LEN	main.c	13;"	d	file:
+GiFd	iic.h	/^int GiFd;$/;"	v
+GiIndex	iic.h	/^int GiIndex;$/;"	v
+I2C_ADDR	main.c	12;"	d	file:
+I2C_SLAVE	iic.h	4;"	d
+I2C_TENBIT	iic.h	5;"	d
+__SERIAL_H	iic.h	2;"	d
+main	main.c	/^int main(void)$/;"	f
+obj	Makefile	/^obj := i2c_eeprom_test$/;"	m
+src	Makefile	/^src := main.c$/;"	m
